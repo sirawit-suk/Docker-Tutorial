@@ -64,3 +64,7 @@ This is a Documentation Docker
 ### Angular-Docker
   - Easy to use: [Create Angular App and Deploy it to Docker Hub](https://www.youtube.com/watch?v=etA5xiX5TCA&ab_channel=freeCodeCamp.org)
   - Note Detail of command: [Docker with an Angular Application](https://www.youtube.com/watch?v=MbA71IuYUhg&ab_channel=JakeCyr)
+  - medium: [มา Deploy Angular | React | Vue บน Docker กัน
+](https://medium.com/nellika/%E0%B8%A1%E0%B8%B2-deploy-angular-react-vue-%E0%B8%9A%E0%B8%99-docker-%E0%B8%81%E0%B8%B1%E0%B8%99-db3c0c3e7073)
+- guide: [คำแนะนำสำหรับ Docker + Angular](https://www.somkiat.cc/docker-and-angular/)
+- detail: [How To Dockerize an Angular Application with Nginx](https://www.indellient.com/blog/how-to-dockerize-an-angular-application-with-nginx/)
